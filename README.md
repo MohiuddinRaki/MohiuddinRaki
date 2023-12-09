@@ -55,21 +55,21 @@
 ## 📊 Most Used Language
 <br/>
   
-![SAJIB's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohiuddinRaki&theme=merko)
+![Mohiuddin's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohiuddinRaki&theme=merko)
 
 ## 📟 GitHub Stats
 <br/>
 
-![SAJIB's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohiuddinRaki&theme=highcontrast)
+![Mohiuddin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohiuddinRaki&theme=merko)
 
 ## ⏱ Streak Stats
 <br/>
   
-![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohiuddinRaki&theme=dark)
+![Mohiuddin's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohiuddinRaki&theme=merko)
 
 ## 💳 Github Profile Summary Card
 <br/>
 
-![SAJIB's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohiuddinRaki&theme=merko)
+![Mohiuddin's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohiuddinRaki&theme=merko)
 
 </div>
