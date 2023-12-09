@@ -60,12 +60,12 @@
 ## 📟 GitHub Stats
 <br/>
 
-![Mohiuddin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohiuddinRaki&theme=merko)
+![Mohiuddin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohiuddinRaki&theme=highcontrast)
 
 ## ⏱ Streak Stats
 <br/>
   
-![Mohiuddin's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohiuddinRaki&theme=merko)
+![Mohiuddin's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohiuddinRaki&theme=dark)
 
 ## 💳 Github Profile Summary Card
 <br/>
