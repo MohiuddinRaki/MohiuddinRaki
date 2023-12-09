@@ -6,7 +6,7 @@
 <div>
   
 - I'm a Front-End Developer proficient in HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, and Firebase. My focus is on creating visually appealing and responsive web interfaces. With a passion for innovation, I aspire to contribute meaningfully to web development, shaping seamless and enjoyable online experiences for users.
-- 
+  
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React**
